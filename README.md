@@ -1,6 +1,6 @@
 # MyApp Wiki
 
-Welcome to the documentation hub for **MyApp** — a Django + Frappe-based application.
+Welcome to the documentation hub for **The Mortuary App for ST John Of God Hospital** — a Frappe-based application.
 
 This wiki contains notes, architectural decisions, role definitions, and detailed documentation
 about key flows and design choices in the project.
@@ -15,4 +15,4 @@ about key flows and design choices in the project.
 
 ---
 
-🔗 **Main repository:** [MyApp on GitHub](https://github.com/<your-username>/myapp)
+🔗 **Main repository:** [MyApp on GitHub](https://github.com/hamzabawumia/mortuary_app)
